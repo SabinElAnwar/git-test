@@ -1,0 +1,86 @@
+[
+  {
+    "id": "15583",
+    "adviceId": 70111470,
+    "name": "Produkttyp",
+    "order": 3,
+    "value": "Wandmontagefunktion"
+  },
+  {
+    "id": "16",
+    "adviceId": 70111470,
+    "name": "Hersteller",
+    "order": 2,
+    "value": "Beurer"
+  },
+  {
+    "id": "13224",
+    "adviceId": 70111470,
+    "name": "Anwendungsgebiet",
+    "order": 1,
+    "value": "Gegen Winterdepressionen"
+  },
+  {
+    "id": "16",
+    "adviceId": 65435643,
+    "name": "Hersteller",
+    "order": 1,
+    "value": "Homematic IP"
+  },
+  {
+    "id": "16732",
+    "adviceId": 65435643,
+    "name": "Serie",
+    "order": 3,
+    "value": "HMIP-SWDO"
+  },
+  {
+    "id": "15583",
+    "adviceId": 65435643,
+    "name": "Produkttyp",
+    "order": 2,
+    "value": "Drahtlos"
+  },
+  {
+    "id": "16686",
+    "adviceId": 65432445,
+    "name": "Tragfähigkeit",
+    "order": 2,
+    "value": "180kg"
+  },
+  {
+    "id": "20748",
+    "adviceId": 65432445,
+    "name": "Gehäusefarbe",
+    "order": 1,
+    "value": "Schwarz"
+  },
+  {
+    "id": "16",
+    "adviceId": 65432445,
+    "name": "Hersteller",
+    "order": 3,
+    "value": "Withings"
+  },
+  {
+    "id": "1333",
+    "adviceId": 67546518,
+    "name": "Stromversorgung",
+    "order": 2,
+    "value": "Netzteil"
+  },
+  {
+    "id": "16",
+    "adviceId": 67546518,
+    "name": "Hersteller",
+    "order": 3,
+    "value": "Sportstech"
+  },
+  {
+    "id": "6311",
+    "adviceId": 67546518,
+    "name": "Bremsentyp",
+    "order": 1,
+    "value": "Magnetbremse"
+  }
+]

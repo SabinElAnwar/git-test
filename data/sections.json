@@ -1,0 +1,159 @@
+[
+  {
+    "url": "/vergleich/wohnen/",
+    "title": "Wohnen",
+    "advices": [
+      {
+        "id": 7011147043,
+        "sectionId": 4590843,
+        "title": "Tageslichtlampe",
+        "url": "https://www.welt.de/vergleich/wohnen/tageslichtlampe-test/",
+        "image": "/vergleich/imgs/./Lampe_3-3244f303df623083.jpg/6c50d2d5cc8d2f58d1f7597292d7f37f.jpg",
+        "date": "2020-08-28T00:00:00.000Z",
+        "visibility": 5,
+        "attributes": [
+          {
+            "id": 15583,
+            "name": "Produkttyp",
+            "order": 3,
+            "value": "Wandmontagefunktion"
+          },
+          {
+            "id": 16,
+            "name": "Hersteller",
+            "order": 2,
+            "value": "Beurer"
+          },
+          {
+            "id": 13224,
+            "name": "Anwendungsgebiet",
+            "order": 1,
+            "value": "Gegen Winterdepressionen"
+          }
+        ],
+        "widgets": [
+          { "id": 123, "title": "TL 30", "type": "kauftipp" },
+          { "id": 234, "title": "TL 45 Perfect Day", "type": "preistipp" },
+          { "id": 523, "title": "LT 460", "type": "standard" },
+          { "id": 593, "title": "TL 90", "type": "standard" }
+        ]
+      },
+      {
+        "id": 9582398234,
+        "sectionId": 4590843,
+        "title": "Alarmanlagen",
+        "url": "https://www.welt.de/vergleich/wohnen/alarmanlage-test/",
+        "image": "/vergleich/imgs/Alarmanlage_2-401103766a97213a.jpg/aa95a1e90fd4c97788c3fa2320639b15.jpg",
+        "visibility": 4,
+        "attributes": [
+          {
+            "id": 16,
+            "name": "Hersteller",
+            "order": 1,
+            "value": "Homematic IP"
+          },
+          {
+            "id": 16732,
+            "name": "Serie",
+            "order": 3,
+            "value": "HMIP-SWDO"
+          },
+          {
+            "id": 15583,
+            "name": "Produkttyp",
+            "order": 2,
+            "value": "Drahtlos"
+          }
+        ],
+        "widgets": [
+          { "id": 839, "title": "WiPro III", "type": "kauftipp" },
+          { "id": 523, "title": "Protect 9061", "type": "preistipp" },
+          { "id": 871, "title": "Kontakt", "type": "standard" },
+          {
+            "id": 193,
+            "title": "Einbruchmeldezentrale GM/A8.1",
+            "type": "standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "/vergleich/gesundheit/",
+    "title": "Gesundheit",
+    "advices": [
+      {
+        "id": 6238947239,
+        "sectionId": 9374938,
+        "title": "Körperfettwaage",
+        "url": "https://www.welt.de/vergleich/gesundheit/koerperfettwaage-test/",
+        "image": "/vergleich/imgs/Koerperfettwaage_2-fade503ad77d1738.jpg/898bf10c191e0339543cf2384755ed58.jpg",
+        "visibility": 5,
+        "attributes": [
+          {
+            "id": 16686,
+            "name": "Tragfähigkeit",
+            "order": 2,
+            "value": "180kg"
+          },
+          {
+            "id": 20748,
+            "name": "Gehäusefarbe",
+            "order": 1,
+            "value": "Schwarz"
+          },
+          {
+            "id": 16,
+            "name": "Hersteller",
+            "order": 3,
+            "value": "Withings"
+          }
+        ],
+        "widgets": [
+          { "id": 983, "title": "BF 105", "type": "kauftipp" },
+          { "id": 345, "title": "AH100", "type": "preistipp" },
+          {
+            "id": 654,
+            "title": "Index Smart Scale schwarz",
+            "type": "standard"
+          },
+          { "id": 398, "title": "PSM M40446", "type": "standard" }
+        ]
+      },
+      {
+        "id": 3554829938,
+        "sectionId": 9374938,
+        "title": "Crosstrainer",
+        "url": "https://www.welt.de/vergleich/freizeit/crosstrainer-test/",
+        "image": "vergleich/imgs/Crosstrainer_vgajic-c0c2cecdbde71236.jpg/6ccb335eb6b08ab09c7a8e23f42bbf88.jpg",
+        "visibility": 3,
+        "attributes": [
+          {
+            "id": 1333,
+            "name": "Stromversorgung",
+            "order": 2,
+            "value": "Netzteil"
+          },
+          {
+            "id": 16,
+            "name": "Hersteller",
+            "order": 2,
+            "value": "Sportstech"
+          },
+          {
+            "id": 6311,
+            "name": "Bremsentyp",
+            "order": 1,
+            "value": "Magnetbremse"
+          }
+        ],
+        "widgets": [
+          { "id": 123, "title": "Crosstrainer MC300", "type": "kauftipp" },
+          { "id": 234, "title": "CX2", "type": "preistipp" },
+          { "id": 523, "title": "CX625", "type": "standard" },
+          { "id": 593, "title": "Croasstech XTR", "type": "standard" }
+        ]
+      }
+    ]
+  }
+]
