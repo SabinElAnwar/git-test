@@ -32,3 +32,8 @@ module.exports = {
 
  * https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap
  */
+
+// https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+// https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+// https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+// https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/some
